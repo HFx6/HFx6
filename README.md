@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hfx6&show_icons=true&locale=en&layout=compact" alt="hfx6" /></p>
 <!--
 **HFx6/HFx6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
